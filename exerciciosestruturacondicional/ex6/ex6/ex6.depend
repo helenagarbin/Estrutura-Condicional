@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709151026 source:c:\cursolinguagemc\exerciciosestruturacondicional\ex6\ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

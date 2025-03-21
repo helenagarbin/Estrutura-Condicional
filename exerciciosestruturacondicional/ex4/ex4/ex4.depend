@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708640552 source:c:\cursolinguagemc\ex4\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+
